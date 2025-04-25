@@ -1,3 +1,5 @@
+![header](https://github.com/syafriedf/syafriedf/blob/main/docs/header.jpg)
+
 ## 👋 Hi, Im Syafrie
 
 💻 **Data & Analytics Engineer Lead** specializing in **Data Engineering** (Python, Airflow, Iceberg & MinIO), **Data Warehouse** (PostgreSQL, ClickHouse), **BI Tools** (PowerBI, Tableau) and **Cloud** (Azure Cloud Services).
