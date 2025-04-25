@@ -1,4 +1,4 @@
-![header](https://github.com/syafriedf/syafriedf/blob/main/docs/header.jpg)
+![header](https://github.com/syafriedf/syafriedf/blob/main/docs/header-pro.jpg)
 
 ## 👋 Hi, Im Syafrie
 
